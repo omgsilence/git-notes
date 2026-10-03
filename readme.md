@@ -1,6 +1,6 @@
 # git notes
 
-'''
+```
 git init 
 git add <filename>
 git add -A
@@ -16,11 +16,11 @@ git tag -a '<semver>' -m '<msg>'
 git tag
 git reglog
 
-'''
+```
 
 
 > other notes
 
-'''
+```
 clear
-'''
+```
